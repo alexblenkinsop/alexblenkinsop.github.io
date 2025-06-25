@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+  {{/* — Use the existing PaperMod base template for head/nav — */}}
+  {{ partial "head.html" . }}
+  {{ partial "header.html" . }}
+
+  <main class="home container mx-auto py-12">
+
+    {{ with .Site.Params.profileMode }}
+      <div class="text-center">
+        {{ with .image }}
+          <img src="{{ . | relURL }}"
+               alt="{{ $.Site.Params.profileMode.imageTitle }}"
+               class="rounded-full w-32 h-32 mx-auto mb-4">
+        {{ end }}
+
+        <h1 class="text-4xl font-bold mb-2">{{ .title }}</h1>
+        <h2 class="text-xl text-gray-600 mb-4">{{ .subtitle }}</h2>
+
+        {{ with $.Site.Params.bio }}
+          <p class="homepage-bio mx-auto max-w-xl mb-6">{{ . | markdownify }}</p>
+        {{ end }}
+
+        <div class="flex flex-wrap justify-center gap-4">
+          {{ range $.Site.Params.buttons }}
+            <a href="{{ .url | relURL }}"
+               class="px-4 py-2 border rounded hover:bg-gray-100">
+              {{ .name }}
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+  </main>
+
+  {{ partial "footer.html" . }}
+
+{{ end }}
+
