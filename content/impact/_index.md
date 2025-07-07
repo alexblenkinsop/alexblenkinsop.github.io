@@ -7,7 +7,7 @@ draft: false
 
 **Impact and media engagement**
 
-- **Roadmap to halt the spread of HIV among migrants in Amsterdam (2020–2024)**: Led technical analysis for several projects aimed at informing HIV prevention strategy in Amsterdam. Published in Journal of Infectious Diseases ([journal front cover](https://tinyurl.com/jid-cover) ), *eLife* (with [editorial commentary](https://tinyurl.com/elife-commentary) ), and *Statistical Methods in Medical Research*.
+- **Roadmap to halt the spread of HIV among migrants in Amsterdam (2020–2024)**: Led technical analysis for several projects aimed at informing HIV prevention strategy in Amsterdam. Published in Journal of Infectious Diseases ([journal front cover](https://tinyurl.com/jid-cover) ), *eLife* (with [editorial commentary](https://doi.org/10.7554/eLife.82610) ), and *Statistical Methods in Medical Research*.
 
 - **Growing gender disparity of HIV transmission in Uganda (2023)**: Contributed to study estimating sources of HIV by age and gender in Rakai, Uganda between 2003-2018. Featured in the [2023 UNAIDS Global AIDS  Report](https://www.unaids.org/en/resources/documents/2023/global-aids-update-2023).
 
