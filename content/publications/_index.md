@@ -2,11 +2,14 @@
 title: "Publications"
 description: "Peer-reviewed articles and pre-prints."
 draft: false
+render_with_liquid: false
 ---
 
 **Peer-reviewed articles and pre-prints**
 
-- **Martin M. A., Brizzi A., Xi X. et al. (2025).** Quantifying prevalence and risk factors of HIV multiple infection in Uganda from population-based deep-sequence data. *PLoS pathogens*. [doi.org/10.1371/journal.ppat.1013065](https://doi.org/10.1371/journal.ppat.1013065 ).
+- **Martin M. A., Brizzi A., Xi X. et al. (2025).**  
+  Quantifying prevalence and risk factors of HIV multiple infection in Uganda from population-based deep-sequence data. *PLoS pathogens*.  
+  [doi.org/10.1371/journal.ppat.1013065](https://doi.org/10.1371/journal.ppat.1013065).
 - **Blenkinsop A., Sofocleous L., di Lauro F. et al. (2025).** Bayesian viral phylogenetic source attribution from consensus sequences and time since infection estimates. *Statistical Methods in Medical Research*. [doi.org/10.1177/09622802241309750](https://doi.org/10.1177/09622802241309750
 ).  
 - **Villaveces A., Chen Y., Tucker S., Blenkinsop A. et al. (2025).** Orphanhood and caregiver death among children in the United States by all-cause mortality, 2000–2021. *Nature Medicine*. [doi.org/10.1038/s41591-024-03343-6](https://www.nature.com/articles/s41591-024-03343-6.pdf).  
